@@ -22,6 +22,7 @@ This is an beginner to intermediate level tutorial geared toward those that have
 
 ## Objectives
 
+In this Tutorial you'll learn how to utilize the magic of Django ORM.
   
 
 ## Outline
