@@ -32,9 +32,7 @@ Introduction (30 minutes - (100% lecture))
 1. About Me
 2. Objectives
 3. Introduction to Django
-4. Set Up environment
-5. Project Set Up
-6. Create Simple Web App and Implementing Django ORM
+4. Create Simple Web App Implementing Django ORM
 
 What's next? (10 minutes)
 
